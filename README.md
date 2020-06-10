@@ -1,4 +1,5 @@
 ## লিংকড-ইন (LinkedIn)
+<br>
 
 লিংকডইন হলো এমন একটি স্যোসাল মিডিয়া প্লাটফর্ম যা আমাদের প্রোফেশনাল নেটও্যার্কিং ও জব সার্চিং এ সহায়তা করে। যার বর্তমান ইউজার সংখ্যা ৫০০ মিলিওনের ও বেশি, যেখানে ৯ মিলিওনের ও বেশি কম্পানির সম্পর্কে ডাটা বা তথ্য আছে, যেখানে ১০ মিলিওনের ও বেশি একটিভ জব পোস্টিং রয়েছে, যা ৭০% এর ও বেশি কম্পানি তাদের ক্যান্ডিডেট দের যাচাই বাছাইয়ের জন্য ব্যবহার করে থাকে,যা প্রায় ৯২% রিক্রুটার রা ব্যবহার করে থাকে।
 
@@ -47,5 +48,5 @@ Written by- <br>
 <br> <big> <b> Mohammad Shikhar </b> </big>
 <br>Department of EEE(4th Year)
 <br>Hajee Mohammad Danesh Science and Technology University
-<br>E-Mail: shikharali13@gmail.com
-<br>LinkedIn: www.linkedin.com/in/mohammadshikharali
+<br>E-Mail: [shikharali13@gmail.com](shikharali13@gmail.com)shikharali13@gmail.com
+<br>LinkedIn: [www.linkedin.com/in/mohammadshikharali](www.linkedin.com/in/mohammadshikharali)www.linkedin.com/in/mohammadshikharali
