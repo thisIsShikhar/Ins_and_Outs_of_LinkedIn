@@ -48,5 +48,5 @@ Written by- <br>
 <br> <big> <b> Mohammad Shikhar </b> </big>
 <br>Department of EEE(4th Year)
 <br>Hajee Mohammad Danesh Science and Technology University
-<br>E-Mail: [shikharali13@gmail.com](shikharali13@gmail.com)shikharali13@gmail.com
-<br>LinkedIn: [www.linkedin.com/in/mohammadshikharali](www.linkedin.com/in/mohammadshikharali)www.linkedin.com/in/mohammadshikharali
+<br>E-Mail: [shikharali13@gmail.com](shikharali13@gmail.com)
+<br>LinkedIn: [www.linkedin.com/in/mohammadshikharali](www.linkedin.com/in/mohammadshikharali)
