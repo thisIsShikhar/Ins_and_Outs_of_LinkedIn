@@ -30,9 +30,11 @@ www.linkedin.com  এ গিয়ে সহজেই সাইন আপ এর �
 
 
 
-Written by-
-Mohammad Shikhar
-Department of EEE (4th Year)
-Hajee Mohammad Danesh Science and Technology University
-E-Mail: shikharali13@gmail.com
-LinkedIn: www.linkedin.com/in/mohammadshikharali
+
+
+Written by-</br>
+Mohammad Shikhar </br>
+Department of EEE (4th Year) </br>
+Hajee Mohammad Danesh Science and Technology University </br>
+E-Mail: shikharali13@gmail.com </br>
+LinkedIn: www.linkedin.com/in/mohammadshikharali </br>
